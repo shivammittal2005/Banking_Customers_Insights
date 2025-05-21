@@ -51,26 +51,6 @@ The notebook is organized into the following sections:
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Bank-EDA.git
-   cd Bank-EDA
-   ```
-
-2. Install the required libraries:
-   ```bash
-   pip install pandas matplotlib seaborn numpy
-   ```
-
-3. Open the notebook:
-   ```bash
-   jupyter notebook BankEDA_(Version_1).ipynb
-   ```
-
----
-
 ## ✅ Output
 
 The notebook generates:
