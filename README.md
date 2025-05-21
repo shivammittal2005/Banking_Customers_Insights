@@ -105,4 +105,4 @@ Open `Banking Analysis Dashoard.pbit` in Power BI Desktop.
 ---
 
 ## Screenshot/ Demo
-![]()
+![](https://github.com/shivammittal2005/Banking_Customers_Insights/blob/main/3\)%20Dashboard/Dashboard%20Pic.png)
